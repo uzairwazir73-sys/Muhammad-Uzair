@@ -1,0 +1,6 @@
+{
+  "name": "UZair Gfx",
+  "description": "Online Apply & Information Portal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
